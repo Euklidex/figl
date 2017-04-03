@@ -13,10 +13,15 @@
 
 </head>
 <body>
-    <style>
+    <style>        
+        .nav > li > a:visited {
+            background-color: dodgerblue;
+        }
         .nav > li > a:hover {
             background-color: deepskyblue;
         }
+       
+        
 
     </style>
   
