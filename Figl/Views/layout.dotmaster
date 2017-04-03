@@ -6,8 +6,23 @@
 <head>
     <meta charset="utf-8" />
     <title>Figl s.r.o.</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
 </head>
 <body>
+
+    <div class="container">
+        <div class="jumbotron" style="background-color: dodgerblue">
+            Logo
+        </div>
+
+        <dot:SpaContentPlaceHolder ID="Layout" />
+
+        <div class="well" style="background-color: dodgerblue">
+            Copyright 2017
+        </div>
+    </div>
 
 </body>
 </html>

@@ -1,0 +1,46 @@
+﻿@viewModel Figl.ViewModels.HomePageViewModel, Figl
+@masterPage Views/layout.dotmaster
+
+<dot:Content ContentPlaceHolderID="Layout">
+
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+    <p>
+        nieco
+    </p>
+
+</dot:Content>
