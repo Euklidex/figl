@@ -3,7 +3,45 @@
 
 <dot:Content ContentPlaceHolderID="Layout">
 
+    
+    <h2><b>Kontak</b></h2>
+    <br />
 
+    <h3>Sídlo spoločnosti</h3>
+    <p>
+        <h4>
+            FIGL - stavebná spoločnosť v.o.s.
+            <br />
+            Sládkovičova 92
+            <br />
+            974 01 Banská Bystrica
+
+        </h4>
+    </p>
+
+    <h3>Kontakt</h3>
+    <p>
+        <h4>
+            Tel.: +421 901 234 567
+            <br />
+            Fax.: +421 901 234 567
+            <br />
+            e-mail: <a href="mailto:figl@figl.sk">figl@figl.sk</a>
+            <br />
+            Stránka: <a href="http://figl.azurewebsites.net/">www.figl.sk</a>
+        </h4>
+    </p>
+
+    <h3>Fakturačné údaje</h3>
+    <p>
+        <h4>
+            IčO: 123 456 789
+            <br />
+            DIč: 123 456 789
+            <br />
+            Ič DPH: SK 123 456 789
+        </h4>
+    </p>
 
 </dot:Content>
 

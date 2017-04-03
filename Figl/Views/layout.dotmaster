@@ -17,9 +17,7 @@
         .nav > li > a:hover {
             background-color: deepskyblue;
         }
-        .nav > li > a:link {
-            background-color: dodgerblue;
-        }
+
     </style>
   
     <div class="jumbotron" style="background-color: dodgerblue">
@@ -27,7 +25,8 @@
             <div class="container">
 
                 <div class="navbar-header">
-                    <h2 class="text-left" style="color: white">FIGL s.r.o.</h2>
+                    <h2 class="text-left" style="color: white"><b>FIGL v.o.s.</b></h2>
+                    <h4 class="text-left" style="color: white">Stavebná spoločnosť</h4>
                 </div>
 
                 <h3>
