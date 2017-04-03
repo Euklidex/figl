@@ -58,7 +58,7 @@
         <dot:SpaContentPlaceHolder ID="Layout" />
 
         <div class="well" style="background-color: dodgerblue">
-            <h4>&copy; 2017 Hromadka</h4>
+            <h4 style="color: white">&copy; 2017 Hromádka</h4>
         </div>
     </div>
 
