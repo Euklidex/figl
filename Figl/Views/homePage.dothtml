@@ -3,44 +3,63 @@
 
 <dot:Content ContentPlaceHolderID="Layout">
 
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
-    <p>
-        nieco
-    </p>
+    <h3>FIGL - synonymum pre stavebnú spoločnosť</h3>
 
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <!--<li data-target="#myCarousel" data-slide-to="2"></li>-->
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="~/Images/2.png" alt="New York" class="img-responsive">
+                <div class="carousel-caption">
+                    <h3>Rodinný dom</h3>
+                    <p>Stavba a prestavba rodinných domov.</p>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="~/Images/3.png" alt="Chicago" class="img-responsive">
+                <div class="carousel-caption">
+                    <h3>Parkovisko</h3>
+                    <p>Parkoviská, oporné múry, mosty...</p>
+                </div>
+            </div>
+
+            <!--<div class="item">
+                <img src="la.jpg" alt="Los Angeles" width="1200" height="700">
+                <div class="carousel-caption">
+                    <h3>LA</h3>
+                    <p>Even though the traffic was a mess, we had the best time playing at Venice Beach!</p>
+                </div>
+            </div>-->
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris tincidunt sem sed arcu. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Etiam commodo dui eget wisi. Duis bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis enim ipsum id lacus. Nullam rhoncus aliquam metus. Integer tempor. Nulla non arcu lacinia neque faucibus fringilla. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Fusce suscipit libero eget elit. Donec quis nibh at felis congue commodo. Fusce tellus odio, dapibus id fermentum quis, suscipit id erat. Etiam egestas wisi a erat. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Fusce consectetuer risus a nunc.</p>
+
+    <p>Nam sed tellus id magna elementum tincidunt. In rutrum. Pellentesque arcu. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Donec iaculis gravida nulla. Integer in sapien. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Pellentesque pretium lectus id turpis. Etiam commodo dui eget wisi.</p>
+
+    <p>Duis bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis enim ipsum id lacus. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Pellentesque ipsum. Praesent dapibus. Phasellus et lorem id felis nonummy placerat. Praesent id justo in neque elementum ultrices. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Suspendisse sagittis ultrices augue. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Sed convallis magna eu sem. Maecenas aliquet accumsan leo. Phasellus rhoncus. Proin mattis lacinia justo. Nullam eget nisl. Nullam faucibus mi quis velit. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Mauris dolor felis, sagittis at, luctus sed, aliquam non, tellus.</p>
+
+    <p>Suspendisse sagittis ultrices augue. Nulla pulvinar eleifend sem. Phasellus faucibus molestie nisl. Nunc dapibus tortor vel mi dapibus sollicitudin. Praesent vitae arcu tempor neque lacinia pretium. Fusce wisi. Fusce dui leo, imperdiet in, aliquam sit amet, feugiat eu, orci. Nunc tincidunt ante vitae massa. Praesent vitae arcu tempor neque lacinia pretium. Nullam sit amet magna in magna gravida vehicula. Sed convallis magna eu sem. Nunc dapibus tortor vel mi dapibus sollicitudin. Et harum quidem rerum facilis est et expedita distinctio. Phasellus rhoncus.</p>
+
+    <p>Aliquam ante. Pellentesque sapien. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Suspendisse nisl. Mauris dictum facilisis augue. Fusce nibh. Sed ac dolor sit amet purus malesuada congue. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Aliquam in lorem sit amet leo accumsan lacinia. In dapibus augue non sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam feugiat, turpis at pulvinar vulputate, erat libero tristique tellus, nec bibendum odio risus sit amet ante. Donec vitae arcu. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Nunc dapibus tortor vel mi dapibus sollicitudin. Fusce tellus. Cras elementum. Integer tempor. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Etiam posuere lacus quis dolor.</p>
+
+    
 </dot:Content>

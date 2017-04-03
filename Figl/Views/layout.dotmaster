@@ -9,20 +9,55 @@
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
     <script src="~/Scripts/jquery-1.9.1.min.js"></script>
     <script src="~/Scripts/bootstrap.min.js"></script>
+
+
 </head>
 <body>
+    <style>
+        .nav > li > a:hover {
+            background-color: deepskyblue;
+        }
+        .nav > li > a:link {
+            background-color: dodgerblue;
+        }
+    </style>
+  
+    <div class="jumbotron" style="background-color: dodgerblue">
+        <nav class="navbar">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <h2 class="text-left" style="color: white">FIGL s.r.o.</h2>
+                </div>
+
+                <h3>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <dot:RouteLink class="selfbutton" RouteName="Home" Text="Domov" style="color: white" />
+                        </li>
+                        <li>
+                            <dot:RouteLink RouteName="About" Text="O nás" style="color: white" />
+                        </li>
+                        <li>
+                            <dot:RouteLink RouteName="Contact" Text="Kontakt" style="color: white" />
+                        </li>
+                    </ul>
+                </h3>
+
+            </div>
+        </nav>
+        
+    </div>
 
     <div class="container">
-        <div class="jumbotron" style="background-color: dodgerblue">
-            Logo
-        </div>
-
+        
         <dot:SpaContentPlaceHolder ID="Layout" />
 
         <div class="well" style="background-color: dodgerblue">
-            Copyright 2017
+            <h4>&copy; 2017 Hromadka</h4>
         </div>
     </div>
+
 
 </body>
 </html>

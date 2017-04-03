@@ -21,7 +21,9 @@ namespace Figl
 
         private void ConfigureRoutes(DotvvmConfiguration config, string applicationPath)
         {
-            config.RouteTable.Add("HomePage", "", "Views/homePage.dothtml");
+            config.RouteTable.Add("Home", "", "Views/homePage.dothtml");
+            config.RouteTable.Add("About", "about", "Views/aboutPage.dothtml");
+            config.RouteTable.Add("Contact", "contact", "Views/contactPage.dothtml");
 
             // Uncomment the following line to auto-register all dothtml files in the Views folder
             // config.RouteTable.AutoDiscoverRoutes(new DefaultRouteStrategy(config));    

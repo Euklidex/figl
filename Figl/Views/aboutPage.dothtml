@@ -1,0 +1,9 @@
+﻿@viewModel Figl.ViewModels.AboutPageViewModel, Figl
+@masterPage Views/layout.dotmaster
+
+<dot:Content ContentPlaceHolderID="Layout">
+
+
+
+</dot:Content>
+
